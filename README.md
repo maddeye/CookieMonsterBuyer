@@ -24,6 +24,7 @@ Copy this code and save it as a bookmark. Paste it in the URL section. To activa
 ```js
 javascript: (function () {
   Game.LoadMod('https://cookiemonsterteam.github.io/CookieMonster/dist/CookieMonster.js');
+  Game.LoadMod('https://maddeye.github.io/CookieMonsterBuyer/CookieMonsterBuyer.js');
 })();
 ```
 ## Load Manually
